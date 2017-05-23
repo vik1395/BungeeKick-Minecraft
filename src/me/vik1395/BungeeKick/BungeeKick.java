@@ -49,7 +49,7 @@ public class BungeeKick extends Plugin
 	        	String file = "ServerName: \'lobby\'\n"
 	        			+ "# This is where the player is kicked to. This is usually the lobby/hub server\n"
 	        			+"KickMessage: \'&6You have been kicked! Reason:&4 \'\n"
-	        			+"# Message to be sent to the player who has been kicked. This message is followed by the kick reason"
+	        			+"# Message to be sent to the player who has been kicked. This message is followed by the kick reason\n"
 	        			+"ShowKickMessage: True\n"
 	        			+"# Set this to True if you want the kicked player to be able to see the kick reason.";
 	        	
